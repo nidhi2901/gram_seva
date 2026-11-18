@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240558988122",
+    "project_id": "gram-seva-afb46",
+    "storage_bucket": "gram-seva-afb46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240558988122:android:58e4c9ce2d846bc9c43163",
+        "android_client_info": {
+          "package_name": "com.example.gram_seva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71gR9i3eck-T8msgRy3j-bvTWcsFLMuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
